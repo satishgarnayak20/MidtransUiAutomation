@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Cucumber Test Suite" duration-ms="18" started-at="2020-07-11T15:47:16Z" finished-at="2020-07-11T15:47:16Z">
+    <groups>
+    </groups>
+    <test name="FireFox Test" duration-ms="18" started-at="2020-07-11T15:47:16Z" finished-at="2020-07-11T15:47:16Z">
+    </test> <!-- FireFox Test -->
+    <test name="Chrome Test" duration-ms="18" started-at="2020-07-11T15:47:16Z" finished-at="2020-07-11T15:47:16Z">
+    </test> <!-- Chrome Test -->
+  </suite> <!-- Cucumber Test Suite -->
+</testng-results>
